@@ -14,10 +14,11 @@ Anhand des folgenden vergrößerten Ausschnitts einer Trendkurve einer 6000l-Zis
 
 ## Bauteileliste
 
-* Arduino Nano V3
-* HomeMatic 8-bit Sendemodul (HM-MOD-EM-8Bit)
-* Ultraschall-Modul mit wasserdichtem Sensor (Liste siehe unten)
-* USB-Netzteil inkl. Mini-USB-Kabel
+* Arduino Pro Mini 
+* Homematic IP 8-bit Sendemodul (HmIP-MOD-RC8)
+* Aihasd JSN-SR04T V2.0
+* Batteriehalter für 3 x Mignon
+* Spelsberg Verbindungsdose Abox 040 leer, grau, IP65 
 
 ### Mögliche Ultraschall-Module
 
