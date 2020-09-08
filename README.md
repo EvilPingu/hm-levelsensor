@@ -15,7 +15,7 @@ Anhand des folgenden vergrößerten Ausschnitts einer Trendkurve einer 6000l-Zis
 ## Bauteileliste
 
 * Arduino Pro Mini 
-* Homematic IP 8-bit Sendemodul (HmIP-MOD-RC8)
+* Homematic 8-bit Sendemodul (HM-MOD-EM-8Bit)
 * Aihasd JSN-SR04T V2.0
 * Batteriehalter für 3 x Mignon
 * Spelsberg Verbindungsdose Abox 040 leer, grau, IP65 
